@@ -5,17 +5,17 @@ This project help you to build a Frequency Generator using a Si5351 Module on Ar
 The schematic attacched use a LCD 20x2 compatible Hitachi HD44780 with 74HC595 shift register integrated circuit (see "how drive a HD44780 LCD using a 74HC595 shift register")
 
 ** Software Requirements **
-si5351 Etherkit Library (found here: https://github.com/etherkit/Si5351Arduino)
-LiquidCrystal 74HC595 Library (found here: https://github.com/matmunk/LiquidCrystal_74HC595)
-IU8NQI Utils Library (included in the IU8NQI_Utils folder)
+si5351 Etherkit Library (found here: https://github.com/etherkit/Si5351Arduino)<br>
+LiquidCrystal 74HC595 Library (found here: https://github.com/matmunk/LiquidCrystal_74HC595)<br>
+IU8NQI Utils Library (included in the IU8NQI_Utils folder)<br>
 
 ** Hardware Requirements **
-Arduino (UNO R3, Nano, etc..)
-Si5351 module
-LCD 20x2 compatible Hitachi HD44780
-1 Rotary Encoder With Push Button
-1 Transistor BC547
-3 Polyester Capacitor 100 nf
+Arduino (UNO R3, Nano, etc..)<br>
+Si5351 module<br>
+LCD 20x2 compatible Hitachi HD44780<br>
+1 Rotary Encoder With Push Button<br>
+1 Transistor BC547<br>
+3 Polyester Capacitor 100 nf<br>
 
 
 
