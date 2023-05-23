@@ -1,0 +1,14 @@
+{
+  "name": "IU8NQI_Utils",
+  "keywords": "IU8NQI, Utils, Encoder, Button",
+  "description": "A utilities library for Arduino to manage encoders, buttons and other.",
+  
+  "frameworks": "arduino",
+  "platforms": "*",
+  "authors":
+  {
+    "name": "IU8NQI",
+    "url": "https://elettronicamaker.it",
+    "maintainer": true
+  }
+}
