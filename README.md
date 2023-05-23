@@ -2,7 +2,7 @@
 Frequency Generator using Arduino and Si5351
 
 This project help you to build a Frequency Generator using a Si5351 Module on Arduino (UNO R3, Nano, etc...)
-The schematic attacched use a LCD 20x2 compatible Hitachi HD44780 with 74HC595 shift register integrated circuit (see "how drive a HD44780 LCD using a 74HC595 shift register")
+The schematic attacched use a LCD 20x2 compatible Hitachi HD44780 with 74HC595 shift register integrated circuit (see ["how drive a HD44780 LCD using a 74HC595 shift register"](https://www.google.com/search?q=how+drive+a+HD44780+LCD+using+a+74HC595+shift+register))
 
 **Software Requirements**<br>
 si5351 Etherkit Library (found here: https://github.com/etherkit/Si5351Arduino)<br>
