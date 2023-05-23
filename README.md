@@ -9,6 +9,7 @@ The schematic attacched use a LCD 20x2 compatible Hitachi HD44780 with 74HC595 s
 - IU8NQI Utils Library (included in the IU8NQI_Utils folder)
 
 ### Hardware Requirements
+[See the schematic](https://github.com/StarNiell/FrequencyGenerator_Arduino_Si5351/blob/main/FG_Schematics.pdf)
 - Arduino (UNO R3, Nano, etc..)
 - Si5351 module
 - LCD 20x2 compatible Hitachi HD44780
