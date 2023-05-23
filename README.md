@@ -18,9 +18,9 @@ The schematic attached use a LCD 20x2 compatible Hitachi HD44780 with 74HC595 sh
 - 3 Polyester Capacitor 100 nf
 
 ### Notes
-The ouput signal is locate on CLK0 output (pin 1) of si5351 module<br>
+The output signal is locate on CLK0 output (pin 1) of si5351 module<br>
 Long press button for swap between Frequency and other functions menu<br>
-Short press buttom for navigate through the functions<br>
+Short press button for navigate through the functions<br>
 - in the Frequency function you can navigate between every digits 
 - in the other functions you can navigate between: ON/OFF signal, Brightness and Power output
 
